@@ -6,7 +6,7 @@
 	<entry key="basepackage">com.rongke</entry>
 	
 	<!-- dao,service,model生成到此D盘目录下 -->
-	<entry key="outRoot">d:/_rk</entry>
+	<entry key="outRoot">d:/_doc</entry>
 	
 	<!-- 需要移除的表名前缀,使用逗号进行分隔多个前缀,示例值: t_,v_ -->
 	<entry key="tableRemovePrefixes"></entry>
@@ -29,9 +29,9 @@
 	<entry key="jdbc.driver">com.mysql.jdbc.Driver</entry>
 	<entry key="jdbc.username">mifan</entry>
 	<entry key="jdbc.password">Mifan1983</entry>-->
-	<entry key="jdbc.url">jdbc:mysql://116.62.161.236:3306/miduoduo?useUnicode=true&amp;characterEncoding=UTF-8</entry>
+	<entry key="jdbc.url">jdbc:mysql://111.111.111.111:3306/数据库?useUnicode=true&amp;characterEncoding=UTF-8</entry>
 	<entry key="jdbc.driver">com.mysql.jdbc.Driver</entry>
 	<entry key="jdbc.username">root</entry>
-	<entry key="jdbc.password">Mifan1983</entry>
+	<entry key="jdbc.password">password</entry>
 	 
 </properties>
