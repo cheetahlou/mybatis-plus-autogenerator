@@ -24,11 +24,6 @@
 	<entry key="java_typemapping.java.sql.Clob">java.lang.String</entry>
 
 	<!-- Mysql 连接信息-->
-	<!--<entry key="jdbc.url">jdbc:mysql://139.224.190.8:3306/hsei_industrialdata_db?useUnicode=true&amp;characterEncoding=UTF-8</entry>-->
-	<!--<entry key="jdbc.url">jdbc:mysql://139.224.42.24:3306/fangjianbao?useUnicode=true&amp;characterEncoding=UTF-8</entry>
-	<entry key="jdbc.driver">com.mysql.jdbc.Driver</entry>
-	<entry key="jdbc.username">mifan</entry>
-	<entry key="jdbc.password">Mifan1983</entry>-->
 	<entry key="jdbc.url">jdbc:mysql://111.111.111.111:3306/数据库?useUnicode=true&amp;characterEncoding=UTF-8</entry>
 	<entry key="jdbc.driver">com.mysql.jdbc.Driver</entry>
 	<entry key="jdbc.username">root</entry>
